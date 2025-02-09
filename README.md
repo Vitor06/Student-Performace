@@ -24,3 +24,33 @@ Power BI: For data cleaning, transformation, and visualization.
 
 # Dataset
 https://www.kaggle.com/datasets/nadeemajeedch/students-performance-10000-clean-data-eda
+
+# Conclusions
+**Performance by gender**: 
+  Female students performed above average.
+
+  Male students performed below average.
+
+**Top performance by gender**:
+
+- Female students excelled in overall grades and total scores.
+
+- They also achieved the best results in science, writing, and math.
+
+- Male students performed best only in reading.
+
+**Grade distribution by gender**:
+
+- Male students received more C and D grades.
+
+**Parental education influence:**
+
+- Parents with some college education had children with more B grades.
+
+**Performance by ethnic group:**
+
+- Ethnic Group C achieved the highest proportion of A and B grades.
+
+**Impact of lunch assistance:**
+
+- Students who received lunch assistance had better grades.
